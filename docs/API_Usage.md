@@ -1,6 +1,8 @@
 # API Usage
 
-RedactKit comes packaged with Python runtime. You can choose to use RedactKit's core redaction patterns as an API to write your own Python script if you wish to. 
+## Using RedactKit's core library as an API to write custom python scripts
+
+RedactKit comes packaged with Python runtime. You can choose to use RedactKit's core redaction patterns as an API to write your own Python script if you wish to.
 
 To do so: Run `python` in your powershell terminal and import redactkit as below.
 
