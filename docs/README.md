@@ -15,7 +15,7 @@ GovTech GIG, as the Infrastructure Engineer Capability Center, provides function
 **Scenario:**
 
 - When we seek support from product principals, there may be instances when we will need to send logs with sensitive internal IP addresses, URLs, email addresses, SOE IDs etc. to them.
-  - Engineers will then need to manually eyeball and redact such data which could be time consuming and prone to errors.
+  - Engineers will then need to manually eyeball and redact such data which could be time-consuming and prone to errors.
 - This tool enables engineers to automate this process and save time, thereby, reducing operation overheads and errors.
 
 **Why use a tool?**
@@ -66,10 +66,10 @@ Agency IT reps can opt to list it in WOG App Library for their respective agency
 ## Team profile
 
 - Original Ideation by Benjamin Quek
-  - ![Ben's photo here]()
+  - ![Ben's photo here](./assets/ben.jpeg)
   - Senior Infrastructure Engineer
   - <https://linkedin.com/in/ben-quek-75254a19>
 - Improved and expanded more features by Oaker Min
-  - ![Bruce's photo here]()
+  - ![Bruce's photo here](./assets/bruce.jpeg)
   - Infrastructure Engineer
   - <https://linkedin.com/in/oakermin>

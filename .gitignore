@@ -1,3 +1,7 @@
+node_modules
+.dccache
+.nojekyll
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
