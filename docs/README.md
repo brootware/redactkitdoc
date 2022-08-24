@@ -71,6 +71,6 @@ Agency IT reps can opt to list it in WOG App Library for their respective agency
   - Senior Infrastructure Engineer
   - <https://linkedin.com/in/ben-quek-75254a19>
 - Improved and expanded more features by Oaker Min
-  - ![Bruce's photo here](./assets/bruce.jpeg)
+  - ![Bruce's photo here](./assets/)
   - Infrastructure Engineer
   - <https://linkedin.com/in/oakermin>
