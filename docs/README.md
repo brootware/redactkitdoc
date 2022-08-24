@@ -65,6 +65,7 @@ Agency IT reps can opt to list it in WOG App Library for their respective agency
 
 ## Team profile
 
+<!-- NEED HELP WITH PHOTO RESIZING -->
 - Original Ideation by Benjamin Quek
   - ![Ben's photo here](./assets/ben.jpeg)
   - Senior Infrastructure Engineer
