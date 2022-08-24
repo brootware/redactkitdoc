@@ -1,4 +1,6 @@
-# Title
+# RedactKitDoc
+
+## Title
 
 RedactKit - Sensitive Data Redaction Tool
 
@@ -13,7 +15,7 @@ GovTech GIG, as the Infrastructure Engineer Capability Center, provides function
 **Scenario:**
 
 - When we seek support from product principals, there may be instances when we will need to send logs with sensitive internal IP addresses, URLs, email addresses, SOE IDs etc. to them.
-    - Engineers will then need to manually eyeball and redact such data which could be time consuming and prone to errors.
+  - Engineers will then need to manually eyeball and redact such data which could be time consuming and prone to errors.
 - This tool enables engineers to automate this process and save time, thereby, reducing operation overheads and errors.
 
 **Why use a tool?**
@@ -24,7 +26,7 @@ GovTech GIG, as the Infrastructure Engineer Capability Center, provides function
 
 ## Features
 
-A python based command line tool that helps you automate the redaction of common sensitive data from the log files. The tool can be used on GSIB via powershell. Engineers can redact / un-redact sensitive log data using the tool. 
+A python based command line tool that helps you automate the redaction of common sensitive data from the log files. The tool can be used on GSIB via powershell. Engineers can redact / un-redact sensitive log data using the tool.
 
 Core redaction engine redacts the following list of data types from your log files. (Extensible to other types of data based on user defined regular expressions). 📄 ✍️
 
@@ -64,10 +66,10 @@ Agency IT reps can opt to list it in WOG App Library for their respective agency
 ## Team profile
 
 - Original Ideation by Benjamin Quek
-    - ![Ben's photo here]()
-    - Senior Infrastructure Engineer
-    - https://linkedin.com/in/ben-quek-75254a19
+  - ![Ben's photo here]()
+  - Senior Infrastructure Engineer
+  - <https://linkedin.com/in/ben-quek-75254a19>
 - Improved and expanded more features by Oaker Min
-    - ![Bruce's photo here]()
-    - Infrastructure Engineer
-    - https://linkedin.com/in/oakermin
+  - ![Bruce's photo here]()
+  - Infrastructure Engineer
+  - <https://linkedin.com/in/oakermin>

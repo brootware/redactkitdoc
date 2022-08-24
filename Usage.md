@@ -1,3 +1,5 @@
+# Usage guide
+
 ## Basic usage
 
 You can redact a text glob from PowerShell Terminal as below.
@@ -5,7 +7,6 @@ You can redact a text glob from PowerShell Terminal as below.
 ```bash
 redactor 'this is my ip:127.0.0.1. my email is broot@outlook.com. secret link is github.com'
 ```
-
 
 This will create a redacted file and a hashshadow file which you can later use to unredact.
 
@@ -23,28 +24,25 @@ This will create a redacted file and a hashshadow file which you can later use t
 this is my ip:a9581c73-05cb-428e-8c62-8bf1521a8aa1. my email is 5f7aa522-86e5-4ca7-83ae-09fbb5a1044b. secret link is 983b017a-98a5-4763-aa6d-a8ad69db20bc
 ```
 
-
-
 To redact a single file from terminal.
 
 ```bash
 redactor test.txt 
 ```
 
-
-
 To Unredact a redacted file.
+
 ```bash
 redactor redacted_test.txt -u .hashshadow_test.txt.json 
 ```
 
-
-
 This will create an unredacted file which contains the original unmasked data.
+
 ```text
 <!-- unredacted.txt -->
 this is my ip:127.0.0.1. my email is broot@outlook.com. secret link is github.com
 ```
+
 ## Advance usage
 
 You can redact multiple files in a folder with sub directories and output the files into a newly created directory.
@@ -65,13 +63,11 @@ foldertoredact
 1 directory, 6 files
 ```
 
-
-
 To redact all of log files in the folder and place them in a new folder:
+
 ```bash
 redactor foldertoredact -d newfolder
 ```
-
 
 ```bash
 tree newfolder
@@ -86,11 +82,10 @@ newfolder
 0 directories, 6 files
 ```
 
-
-
 Besides the core regex patterns of SG NRIC, domain names, emails, ip addresses, base64 strings and credit cards, you can also define custom regex patterns to redact them from your log files.
 
 To redact using custom regex pattern, create a custom json file as per format below.
+
 ```bash
 redactor file -c customregex.json
 ```
@@ -127,6 +122,3 @@ redactor file -c customregex.json
     }
 ]
 ```
-
-
-
