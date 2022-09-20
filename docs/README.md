@@ -60,8 +60,8 @@ Agency IT reps can opt to list it in WOG App Library for their respective agency
 
 ## Resources
 
-- [Usage Guide](./Usage.md)
-- [API Usage](./API_Usage.md)
+- [Usage Guide](./usage.md)
+- [API Usage](./api-usage.md)
 
 ## Team profile
 
