@@ -67,10 +67,6 @@ Agency IT reps can opt to list it in WOG App Library for their respective agency
 
 <!-- NEED HELP WITH PHOTO RESIZING -->
 - Original Ideation by Benjamin Quek
-  - ![Ben's photo here](./assets/ben.jpeg)
-  - Senior Infrastructure Engineer
-  - <https://linkedin.com/in/ben-quek-75254a19>
+  - Senior Infrastructure Engineer [LinkedIn](<https://linkedin.com/in/ben-quek-75254a19>)
 - Improved and expanded more features by Oaker Min
-  - ![Bruce's photo here](./assets/)
-  - Infrastructure Engineer
-  - <https://linkedin.com/in/oakermin>
+  - Infrastructure Engineer [LinkedIn](<https://linkedin.com/in/oakermin>)
