@@ -1,8 +1,4 @@
-# RedactKitDoc
-
-## Title
-
-RedactKit - Sensitive Data Redaction Tool
+# RedactKit Documentation
 
 ## Overview
 
