@@ -1,3 +1,3 @@
 - Getting Started
-  - [Usage Guide](./usage.md)
+  - [Usage Guide](usage.md)
   - [API Usage](api-usage.md)
