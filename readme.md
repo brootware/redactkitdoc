@@ -22,6 +22,8 @@ GovTech GIG, as the Infrastructure Engineer Capability Center, provides function
 
 ## Features
 
+![demo](./assets/gtredactkitdemo.gif)
+
 A python-based command line tool that helps you automate the redaction of common sensitive data from the log files. The tool can be used on GSIB via Powershell. Engineers can redact / un-redact sensitive log data using the tool.
 
 The core redaction engine redacts the following list of data types from your log files. (Extensible to other types of data based on user-defined regular expressions). 📄 ✍️
