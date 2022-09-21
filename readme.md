@@ -56,9 +56,11 @@ The tool is available on software center as a GSSP package immediately. (GSSP_Py
 
 Agency IT reps can opt to list it in WOG App Library for their respective agency's use.
 
-## Team profile
+## Team profile and other details
 
 - Original Ideation by Benjamin Quek
   - Senior Infrastructure Engineer - [LinkedIn](<https://linkedin.com/in/ben-quek-75254a19>)
 - Improved and expanded more features by Oaker Min
   - Infrastructure Engineer - [LinkedIn](<https://linkedin.com/in/oakermin>)
+
+The RedactKit CLI also has an upstream open source version on GitHub. You can get involved here: [PyRedactKit](https://github.com/brootware/PyRedactKit)
