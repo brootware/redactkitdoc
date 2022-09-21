@@ -54,11 +54,6 @@ The tool is available on software center as a GSSP package immediately. (GSSP_Py
 
 Agency IT reps can opt to list it in WOG App Library for their respective agency's use.
 
-## Resources
-
-- [Usage Guide](./usage.md)
-- [API Usage](./api-usage.md)
-
 ## Team profile
 
 - Original Ideation by Benjamin Quek
