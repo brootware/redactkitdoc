@@ -2,7 +2,7 @@
 
 ## Overview
 
-RedactKit is a CLI tool to redact and un-redact sensitive data from multiple log files.
+RedactKit is a CLI tool to redact and un-redact sensitive data from multiple log files on Government Standard Image Build (GSIB) devices.
 
 **What is it about?**
 
