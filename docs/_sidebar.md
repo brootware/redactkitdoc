@@ -1,3 +1,4 @@
 - Getting Started
-  - [Usage Guide](usage.md)
-  - [API Usage](api-usage.md)
+  - [Home](../readme.md)
+  - [Usage Guide](./docs/usage.md)
+  - [API Usage](./docs/api-usage.md)
