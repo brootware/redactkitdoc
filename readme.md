@@ -10,7 +10,7 @@ GovTech GIG, as the Infrastructure Engineer Capability Center, provides function
 
 **Scenario:**
 
-- When we seek support from product principals, there may be instances when we will need to send logs with sensitive internal IP addresses, URLs, email addresses, SOE IDs etc. to them.
+- When we seek support from product principals, there may be instances where we will need to send logs with sensitive internal IP addresses, URLs, email addresses, SOE IDs etc. to them.
   - Engineers will then need to manually eyeball and redact such data which could be time-consuming and prone to errors.
 - This tool enables engineers to automate this process and save time, thereby, reducing operation overheads and errors.
 
