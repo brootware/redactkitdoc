@@ -52,7 +52,7 @@ Here is a sample redaction run on a log file with over 10k lines. If an engineer
 
 ## Getting Started
 
-The tool is available on software center as a GSSP package immediately. (GSSP_Python310 RedactKit_0.1.2)
+The tool is available on software center as a Government Standard Software Package (GSSP) immediately. (GSSP_Python310 RedactKit_0.1.2)
 
 Agency IT reps can opt to list it in WOG App Library for their respective agency's use.
 
